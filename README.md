@@ -42,4 +42,4 @@
   
 7. customer_churn.ipynb
 
-Remark: This is one of my school projects
+Remark: This is one of my school projects. You can download my script and play around my code :)
