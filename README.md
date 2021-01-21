@@ -42,4 +42,4 @@
   
 7. customer_churn.ipynb
 
-Remarks: This is one of my school projects
+Remark: This is one of my school projects
