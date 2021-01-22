@@ -9,37 +9,18 @@
   - The testing set with 13 input attributes. You need to identify the class of each item. 
 
 #### Other files
-1. samplesubmission.csv:
-    - This is a sample file to show the output format. Wrong format will lead to unknown result.
-	
-2. evaluate_2.macOS:
-    - This is a command line tool to evaluate your result. We will use F1-measure to measure your result. 
-    - Usage: Press "command + space" to open spotlight search and type in "terminal", then type in the following command in the terminal. You should replace
-	```./submission_2.csv``` with your own path to the submission_2.csv.  Please note that ```./```denote the current position of the command line and ```submission_2.csv``` denote your submission file name.
-```bash
-./evaluate_2.macOS ./submission_2.csv
-```
-
-3. evaluate_2.linux:
-    - Usage: Press "ctrl + alt + t" to launch a terminal and input the following command.
-    - Other  notification details are as introduced in the "macOS setting".
-```bash
-./evaluate_2.linux ./submission_2.csv
-```
-
-4. evaluate_2.exe:
+1. evaluate_2.exe:
     - Usage: Press "command + r" and then type in "cmd" in the dialog box to launch a terminal. Then type in the command:
     - Other notification details are as introduced in the "macOS setting".
 ```bash
 ./evaluate_2.exe ./submission_2.csv
 ```
-
-5. submission_2_tree.csv: 
+2. submission_2_tree.csv: 
     - result from decision tree
 
-6. submission_2_xgb.csv: 
+3. submission_2_xgb.csv: 
     - result from XGBoost
   
-7. customer_churn.ipynb
+4. customer_churn.ipynb
 
 Remark: This is one of my school projects. You can download my script and play around my code :)
