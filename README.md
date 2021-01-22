@@ -13,7 +13,7 @@
     - This is a command line tool to evaluate your result. F1-measure is used to measure your result.
     - Usage: Press "command + r" and then type in "cmd" in the dialog box to launch a terminal. Then type in the command:
 ```bash
-./evaluate_2.exe ./submission_2.csv
+evaluate_2.exe submission_2.csv
 ```
 2. submission_2_tree.csv: 
     - result from decision tree
