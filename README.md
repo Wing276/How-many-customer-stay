@@ -1,6 +1,8 @@
 # How many Customers Stay
 ## 1. Background
 - This data comes from clients of a bank. The bank wants to model whether they will stay or not in the future. The task is to do the binary classification based on the given information.
+- This is a testing
+
 ## 2. Data Set Information
 - The data are attributes of customers' basic information. 
 - train.csv
